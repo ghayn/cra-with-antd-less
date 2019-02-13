@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "license": "MIT",
   "dependencies": {
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
-    "react-scripts": "2.1.1",
-    "@craco/craco": "^3.2.3",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-scripts": "2.1.5",
+    "@craco/craco": "^3.4.1",
     "craco-less": "^1.5.2",
-    "@babel/plugin-proposal-decorators": "^7.2.3",
+    "@babel/plugin-proposal-decorators": "^7.3.0",
     "babel-plugin-import": "^1.11.0",
-    "antd": "^3.12.1"
+    "antd": "^3.13.2"
   },
   "scripts": {
     "start": "craco start",
